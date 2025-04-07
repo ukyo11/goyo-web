@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goyo-web/static/css/main.20987398.css",
-    "main.js": "/goyo-web/static/js/main.7a8b6fae.js",
-    "index.html": "/goyo-web/index.html",
-    "main.20987398.css.map": "/goyo-web/static/css/main.20987398.css.map",
-    "main.7a8b6fae.js.map": "/goyo-web/static/js/main.7a8b6fae.js.map"
+    "main.css": "/static/css/main.20987398.css",
+    "main.js": "/static/js/main.1ff3a14d.js",
+    "index.html": "/index.html",
+    "main.20987398.css.map": "/static/css/main.20987398.css.map",
+    "main.1ff3a14d.js.map": "/static/js/main.1ff3a14d.js.map"
   },
   "entrypoints": [
     "static/css/main.20987398.css",
-    "static/js/main.7a8b6fae.js"
+    "static/js/main.1ff3a14d.js"
   ]
 }
